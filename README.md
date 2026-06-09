@@ -1,5 +1,10 @@
-
 # 💰 LoanSphere – AI Powered Loan Management Platform
+
+<p> <h2>🌟 Project Showcase </h2>
+  <a href="https://varshithalu.github.io/Loansphere/" target="_blank">
+    <img src="https://img.shields.io/badge/View-Live%20Demo-blue?style=for-the-badge" />
+  </a>
+</p>
 
 ## 📌 Overview
 
@@ -122,4 +127,6 @@ npm run dev
 
 📧 [luvarshitha3139@gmail.com](mailto:luvarshitha3139@gmail.com)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/varshithalu/)
+💼 [LinkedIn - varshithalu](https://www.linkedin.com/in/varshithalu/)
+
+💻 [Github - varshithalu](https://github.com/varshithalu)
