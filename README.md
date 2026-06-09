@@ -26,27 +26,24 @@ The platform integrates AI-powered risk assessment using Machine Learning models
 ## 🛠️ Tech Stack
 
 ### Frontend
-
 * React.js
 * Tailwind CSS
 * Axios
 
 ### Backend
-
-* FastAPI / Node.js
+* Node.js
 * REST APIs
 * JWT Authentication
 
 ### Machine Learning
-
 * Python
+* FastAPI
 * XGBoost
 * Scikit-learn
 * Pandas
 * NumPy
 
 ### Database
-
 * PostgreSQL / MongoDB
 
 ---
@@ -85,20 +82,6 @@ The platform integrates AI-powered risk assessment using Machine Learning models
 
 ---
 
-## 📂 Project Structure
-
-```bash
-loansphere/
-│
-├── frontend/
-├── backend/
-├── ml-model/
-├── workflows/
-├── results/
-└── README.md
-```
-
----
 
 ## 📸 Included Modules
 
@@ -114,38 +97,28 @@ loansphere/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/loansphere.git
+git clone https://github.com/varshithalu/loansphere.git
 cd loansphere
 ```
 
 ### Backend
-
 ```bash
+cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
 ### Frontend
-
 ```bash
+cd frontend
 npm install
 npm run dev
 ```
 
----
 
-## 🎯 Future Enhancements
-
-* Credit score API integration
-* Blockchain loan verification
-* AI chatbot assistance
-* Automated EMI reminders
-* Fraud detection system
-
----
 
 ## 👩‍💻 Author
-
-Varshitha
+Varshitha L U
+luvarshitha3139@gmail.com
 
 
